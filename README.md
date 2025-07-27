@@ -1,4 +1,4 @@
 # program-demo
 this is my first git repository
 <br>
-Author - Akhil Angalakuduru
+Author - Akhil (Asquare)
